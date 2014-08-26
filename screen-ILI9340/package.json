@@ -1,0 +1,15 @@
+{
+  "name": "screen-ILI9340",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ili9341lib": "0.0.0",
+    "screen-TFT": "0.0.0"
+  }
+}
